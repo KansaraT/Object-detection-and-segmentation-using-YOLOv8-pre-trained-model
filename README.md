@@ -5,13 +5,8 @@ Ultralytics YOLOv8 is a cutting-edge, state-of-the-art (SOTA) model that builds 
 **Model**\
 A Yolov8 pre-trained model (YOLOv8n) was used to detect and segment objects. 
 
-**Project Setup**
-
-* Make an environment with python=3.8 using the following command\
-conda create --prefix ./env python==3.8 -y
-
-* Activate the environment\
-conda activate ./env
+**Project Setup**\
+In the local environment do the following:
 
 * Install the requirements\
 pip install ultralytics
@@ -26,4 +21,5 @@ Original image
 
 Image after object detection and segmentation
 
-![bus](https://github.com/KansaraT/Object-detection-and-segmentation-using-YOLOv8-pre-trained-model/assets/91043060/93591192-df6b-4877-80db-b555fe93c4fb
+![bus](https://github.com/KansaraT/Object-detection-and-segmentation-using-YOLOv8-pre-trained-model/assets/91043060/cdda85fb-9a05-42d6-9eba-bdca58b41b7b)
+
