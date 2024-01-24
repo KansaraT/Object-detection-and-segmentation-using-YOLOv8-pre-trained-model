@@ -6,14 +6,21 @@ Ultralytics YOLOv8 is a cutting-edge, state-of-the-art (SOTA) model that builds 
 A Yolov8 pre-trained model (YOLOv8n) was used to detect and segment objects. 
 
 **Project Setup**\
-In the local environment do the following:
+On the terminal paste the following code:
 
 * Install the requirements\
-pip install ultralytics
+!pip install ultralytics
 
 * Run main.py with the image link \
-python main.py
+!python main.py
 
+Alternatively
+
+* Install the requirements\
+!pip install ultralytics
+
+* Run the image link \
+!yolo predict model=yolov8n-seg.pt source='https://ultralytics.com/images/bus.jpg'
 
 Original image
 
